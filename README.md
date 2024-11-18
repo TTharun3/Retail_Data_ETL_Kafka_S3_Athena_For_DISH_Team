@@ -1,6 +1,6 @@
 **Retail Data Streaming and Analytics with Apache Kafka, AWS S3, and Athena**
 
-ETL_Workflow.jpeg
+[ETL_Workflow.jpeg](https://github.com/TTharun3/Retail_Data_ETL_Kafka_S3_Athena_For_DISH_Team/blob/main/ETL_Workflow.jpeg)
 
 **Project Overview**
 
