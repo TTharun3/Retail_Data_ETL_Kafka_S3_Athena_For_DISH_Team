@@ -1,5 +1,7 @@
 **Retail Data Streaming and Analytics with Apache Kafka, AWS S3, and Athena**
 
+[ETL_Workflow.jpeg](https://github.com/TTharun3/Retail_Data_ETL_Kafka_S3_Athena_For_DISH_Team/blob/main/ETL_Workflow.jpeg)
+
 **Project Overview**
 
 This project demonstrates a complete real-time data pipeline for streaming, storing, and analyzing data. Using the retail dataset, we simulate data streaming via Apache Kafka, store the streamed data into AWS S3, and leverage AWS Glue Crawler and Amazon Athena for analysis. This pipeline is ideal for scenarios requiring scalable, near-real-time data ingestion and analytics
